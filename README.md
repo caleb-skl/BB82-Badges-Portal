@@ -1,6 +1,11 @@
 # 香港基督少年軍第82分隊中級組隊員獎章數位履歷與管理系統
 # The Boys' Brigade, Hong Kong (82nd Company) - Junior Section Badges Dossier & Management Portal
 
+> 🌐 **線上系統入口 / Live Portal Link**：  
+> 👉 [點擊進入：第82分隊中級組獎章數位系統入口](https://script.google.com/macros/s/您的ID/exec)
+
+[![Live Demo](https://img.shields.io/badge/線上入口-點擊進入-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://script.google.com/macros/s/您的ID/exec)
+
 [![Google Apps Script](https://img.shields.io/badge/Runtime-Google%20Apps%20Script%20(V8)-4285F4?logo=google&logoColor=white)](https://developers.google.com/apps-script)
 [![Bootstrap 5](https://img.shields.io/badge/Frontend-Bootstrap%205.3-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![License: Internal Use](https://img.shields.io/badge/License-Internal%20BBHK%20Use-0e2a47.svg)](#license)
